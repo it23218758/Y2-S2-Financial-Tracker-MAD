@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Fitnance Tracker</string>
+    <string name="charts">Charts</string>
+    <string name="add_budget">Add Budget</string>
+    <string name="view_transactions">View Transactions</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="budget_usage_0">Budget Usage: 0%</string>
+    <string name="savings_rs_0_00">Savings: Rs. 0.00</string>
+    <string name="total_expenses_rs_0_00">Total Expenses: Rs. 0.00</string>
+    <string name="total_income_rs_0_00">Total Income: Rs. 0.00</string>
+    <string name="personal_finance_tracker">Personal Finance Tracker</string>
+    <string name="import_data">Import Data</string>
+    <string name="export_data">Export Data</string>
+    <string name="save_transaction">Save Transaction</string>
+    <string name="no_date_selected">No date selected</string>
+
+
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Bills</item>
+        <item>Health</item>
+        <item>Salary</item>
+        <item>Other</item>
+    </string-array>
+</resources>
